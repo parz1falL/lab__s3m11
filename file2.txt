@@ -1,1 +1,2 @@
 File 2
+Строка из master
